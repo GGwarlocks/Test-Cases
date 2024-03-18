@@ -61,8 +61,6 @@ Test data:
 User: ioana
 Pass: 023456
 
-**Pre-conditions:**
--
 --------------------------------------------------------------------------------------------
 **Description:**
 Check if the login works when a user uses both username and passward incorrect.
