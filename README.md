@@ -3,7 +3,7 @@
 *Description*
 Check if the login works when user enters the correct credentials.
 
-#Steps to reproduce#
+#Steps to reproduce
 
 1. Open website.com/login
 
