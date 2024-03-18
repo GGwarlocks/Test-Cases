@@ -81,7 +81,7 @@ User should recive an error message informing incorrect username/passward.
 **Pre-conditions:**
 User should have a valid account
 
--
+--------------------------------------------------------------------------------------------
 **Description:**
 Check if the login works without typing passward.
 
