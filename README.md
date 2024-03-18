@@ -20,9 +20,6 @@ Pass: 123456
 **Pre-conditions:**
 User should have a valid account.
 
-**Post-conditions:**
--
-
 --------------------------------------------------------------------------------------------
 **Description:**
 Check if the login works when the user uses the incorrect username.
@@ -45,9 +42,6 @@ Pass: 123456
 **Pre-conditions:**
 User should have a valid account.
 
-**Post-conditions:**
--
-
 --------------------------------------------------------------------------------------------
 **Description:**
 Check if the login works when using the incorrect passward.
@@ -69,9 +63,6 @@ Pass: 023456
 
 **Pre-conditions:**
 -
-**Post-conditions:**
--
-
 --------------------------------------------------------------------------------------------
 **Description:**
 Check if the login works when a user uses both username and passward incorrect.
@@ -93,9 +84,6 @@ User should recive an error message informing incorrect username/passward.
 -
 User should have a valid account
 
-**Post-conditions:**
--
-
 --------------------------------------------------------------------------------------------
 **Description:**
 Check if the login works without typing passward.
@@ -113,6 +101,3 @@ User should recive a message informing a passward is needed.
 
 **Pre-conditions:**
 User should have a valid account
-
-**Post-conditions:**
--
