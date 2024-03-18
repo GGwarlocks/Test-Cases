@@ -1,9 +1,9 @@
 # Test-Cases Samples
 
-Description:
+*Description*
 Check if the login works when user enters the correct credentials.
 
-Steps to reproduce:
+#Steps to reproduce#
 
 1. Open website.com/login
 
@@ -11,7 +11,7 @@ Steps to reproduce:
 
 3. Click "Login" button
 
-Expected result:
+*Expected result*
 User should be able to login and is redirected to his profile page.
 
 Test data:
